@@ -1,6 +1,5 @@
 streamlit
 pandas
 requests
-bs4
-BeautifulSoup
+beautifulsoup4
 datetime
